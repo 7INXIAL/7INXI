@@ -27,4 +27,4 @@
 
 ***
 
-![](https://github.com/xilinyo/xilinyo/blob/main/images/snake.svg)
+![](https://github.com/xilinyo/xilinyo/blob/main/images/dino_rounded.gif)
