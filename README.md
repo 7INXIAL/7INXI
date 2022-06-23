@@ -1,5 +1,5 @@
 ![](https://github.com/xilinyo/xilinyo/blob/main/images/logo.png)
-<img alt="Mail" src="https://img.shields.io/badge/-nilxiyo@163.com-ce493b?style=flat-square&logo=gmail&logoColor=white" />
+<img alt="Mail" src="https://img.shields.io/badge/-xilinyo@163.com-ce493b?style=flat-square&logo=gmail&logoColor=white" />
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
