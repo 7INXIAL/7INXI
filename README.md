@@ -19,8 +19,8 @@
   <img alt="Nuxt" src="https://img.shields.io/badge/-NustJs-13aa52?style=flat-square&logo=nuxtdotjs&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-000000?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="Element" src="https://img.shields.io/badge/-Element-409eff?style=flat-square&logo=element&logoColor=white" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-000000?style=flat-square&logo=antdesign&logoColor=white" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xilinyo&theme=flat&margin-w=46&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy) 
