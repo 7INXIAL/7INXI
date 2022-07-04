@@ -28,3 +28,17 @@
 ***
 
 ![](https://github.com/xilinyo/xilinyo/blob/main/images/dino_rounded.gif)
+
+##### 跃龙门行动 (项目自学开发计划)
+
+|代号名称|任务目标|预期时间|详细描述|
+|---|:---:|:---:|:---|
+|`乾 qián`|`Vue`|`7.04 ~ 7.15`| `暂定初期webpack + vue2和vite + vue3两个固定版本分支的开发` |
+|`坎 kǎn`|`React`|`-`|`暂定初期一个最新版本的 React 开发`|
+|`艮 ɡèn`|`Angular`|`-`|`-`|
+|`震 zhèn`|`SSR`|`-`|`-`|
+|`巽 xùn`|`Flutter`|`-`|`-`|
+|`离 lí`|`Node`|`-`|`-`|
+|`坤 kūn`|`Go`|`-`|`-`|
+|`兑 duì`|`Dart`|`-`|`-`|
+
