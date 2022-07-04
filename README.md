@@ -41,5 +41,5 @@
 |`巽 xùn`|`SSR`|`-`|`包含 Nuxt、Next 和 Angular Universal 三个分支的开发`|
 |`离 lí`|`Components`|`-`|`组件库开发`|
 |`坤 kūn`|`小程序`|`-`|`包含 Taro 和 Uni-app 两个分支的开发`|
-|`兑 duì`|`WebGL`|`-`|``|
+|`兑 duì`|`WebGL`|`-`|`-`|
 
