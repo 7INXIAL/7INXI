@@ -28,18 +28,3 @@
 ***
 
 ![](https://github.com/xilinyo/xilinyo/blob/main/images/dino_rounded.gif)
-
-##### 跃龙门行动 (项目丰富计划)
-###### 行动宗旨: 温故知新，开拓技能。
-
-|代号名称|任务目标|详细描述|
-|---|:---:|:---|
-|`乾 qián`|`Webpack`| `vue_2.x react 两个分支的无组件库框架` |
-|`坎 kǎn`|`Vite`|`vue_3.x 基础框架`|
-|`艮 ɡèn`|`Angular`|`angular 基础框架`|
-|`震 zhèn`|`Flutter`|`简单成品开发`|
-|`巽 xùn`|`SSR`|`nuxt next 两个分支的框架`|
-|`离 lí`|`Components`|`组件库开发`|
-|`坤 kūn`|`小程序`|`-`|
-|`兑 duì`|`WebGL`|`-`|
-
