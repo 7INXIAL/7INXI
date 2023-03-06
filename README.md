@@ -1,6 +1,3 @@
-![](https://github.com/7INXIAL/7INXIAL/tree/main/images/logo.png)
-<img alt="Mail" src="https://img.shields.io/badge/-7INXIAL@gmail.com-ce493b?style=flat-square&logo=gmail&logoColor=white" />
-
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1f84bf?style=flat-square&logo=css3&logoColor=white" />
@@ -24,7 +21,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=7INXIAL&theme=flat&margin-w=46&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy) 
-
-***
-
-![](https://github.com/7INXIAL/7INXIAL/tree/main/images/dino_rounded.gif)
