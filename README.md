@@ -1,5 +1,5 @@
 ![](https://github.com/xilinyo/xilinyo/blob/main/images/logo.png)
-<img alt="Mail" src="https://img.shields.io/badge/-7rks.6o6@gmail.com-ce493b?style=flat-square&logo=gmail&logoColor=white" />
+<img alt="Mail" src="https://img.shields.io/badge/-7INXIAL@gmail.com-ce493b?style=flat-square&logo=gmail&logoColor=white" />
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant Design-000000?style=flat-square&logo=antdesign&logoColor=white" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xilinyo&theme=flat&margin-w=46&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=7INXIAL&theme=flat&margin-w=46&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ***
 
