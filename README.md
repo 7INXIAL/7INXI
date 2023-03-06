@@ -27,4 +27,4 @@
 
 ***
 
-![](https://github.com/xilinyo/xilinyo/blob/main/images/dino_rounded.gif)
+![](https://github.com/7INXIAL/7INXIAL/tree/main/images/dino_rounded.gif)
