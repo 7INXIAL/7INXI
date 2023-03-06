@@ -1,4 +1,4 @@
-![](https://github.com/xilinyo/xilinyo/blob/main/images/logo.png)
+![](https://github.com/7INXIAL/7INXIAL/tree/main/images/logo.png)
 <img alt="Mail" src="https://img.shields.io/badge/-7INXIAL@gmail.com-ce493b?style=flat-square&logo=gmail&logoColor=white" />
 
 <p>
