@@ -10,4 +10,4 @@
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-aa50f7?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=7INXIAL&theme=flat&margin-w=46&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=xinnigs&theme=flat&margin-w=46&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy) 
